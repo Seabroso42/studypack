@@ -1,0 +1,1 @@
+print("interpretador python instalado com sucesso!")
